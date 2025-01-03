@@ -2,21 +2,34 @@
 
 大家好，我是闲者，一个探索中的独立开发者！
 
-![wbtime.com](img/wbtime.com.jpg)
+![wbtime.com](img/wbtime.com.ico)
 
-## [闲着 - 闲者何去](https://wbtime.com/)
+## [时光之外 - 生命不息，探索不止！](https://wbtime.com/)
 
-![闲着，闲着何去，闲者何去](img/wbtime.png)
+![时光之外，生命不息，探索不止！](img/wbtime.png)
 
-首页做的比较简单，仅仅是一个简单的展示页，感兴趣的朋友可以点击底部的[反馈](https://www.wbtime.com/feedback)页面，留下邮箱，后面会不定时推送网站相关信息！
+首页做的比较简单，仅仅是一个简单的展示页，感兴趣的朋友可以点击关于中的[问题反馈](https://www.wbtime.com/doc/jothw-)页面，进行留言！
 
-## [闲着导航 - 自由探索世界](https://nav.wbtime.com/)
+## [时光导航 - 自由探索世界](https://nav.wbtime.com/)
 
-![闲着导航，自由探索世界](img/nav.wbtime.png)
+![时光导航，自由探索世界](img/nav.wbtime.png)
 
-闲着导航 - 自由探索世界，因为浏览器上面的书签栏展示不方便，所以使用nav作为前缀，做了一个常用网址导航网站：闲着导航，
+时光导航 - 自由探索世界，因为浏览器上面的书签栏展示不方便，所以使用nav作为前缀，做了一个常用网址导航网站：时光导航，
 
 目前导航页面上的数据是从后台获取的，暂时不支持自定义设置导航，后面会增加支持自定义设置导航。
+
+2025.1.3 更新：目前已支持自定义导航和热点订阅
+
+## [时光工具 - 好用的在线工具网站](https://tool.wbtime.com/)
+
+![时光工具，好用的在线工具网站](img/tool.wbtime.png)
+
+一个好用的在线工具网站
+
+## [今日热点 - 3分钟纵观世界](https://news.wbtime.com/)
+
+![今日热点，3分钟纵观世界](img/news.wbtime.png)
+
 
 ##  [闲者博客 - 生活，如此而已！](https://blog.wbtime.com/)
 
